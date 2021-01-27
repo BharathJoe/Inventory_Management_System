@@ -1,0 +1,16 @@
+welcome to GIJO INVENTORY MANAGEMENT SYSTEM
+
+we MARIA JOSEPH BHARATH.F(18-PCA-002)
+&  GAYATHRI.R (18-PCA-030)
+We maintain a inventory system for a bakery.
+Features of our Project:
+login
+stock
+suppliers
+Bakery main menu 
+sales
+new user
+change user
+customer support
+
+
